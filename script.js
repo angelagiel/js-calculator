@@ -18,3 +18,13 @@ function calculate() {
 }
 
 // MODIFICATIONS: 
+/**
+ * add AC button 
+ * add +/- button
+ * addd % button
+ * change '/' to proper division symbol
+ * change to proper ios calculator styling
+ * fix proper ios positioning
+ * make it darker
+ * operator-btn's must not be appended to the display.
+ */
